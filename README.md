@@ -33,3 +33,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Jawaban Soal 2
 ![Screenshot](assets/02.png)
 - Vercell merupakan aplikasi yang bisa digunakan untuk menghosting website dari next.js
+
+### Jawaban Soal 3
+![Screenshot](assets/03.png)
+
+### Jawaban Soal 4
+![Screenshot](assets/04.png)
+
