@@ -40,3 +40,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Jawaban Soal 4
 ![Screenshot](assets/04.png)
 
+### Jawaban Soal 5
+![Screenshot](assets/05.png)
+
+- Pada saat terjadi perubahan dan kita melakukan push, vercell akan otomatis mengubah dan mendeployment ulang
+- Link : https://09-nextjs-database-kappa.vercel.app/
+
+
+
