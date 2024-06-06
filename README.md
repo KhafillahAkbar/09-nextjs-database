@@ -49,5 +49,12 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Jawaban Soal 6
 ![Screenshot](assets/06.png)
 
+### Jawaban Soal 7
+![Screenshot](assets/07.png)
+- Query dapat dilakukan pada file tsx yang bisa dikombinasikan agar hasil query dapat ditampilkan serta mengambil data.
+
+
+
+
 
 
