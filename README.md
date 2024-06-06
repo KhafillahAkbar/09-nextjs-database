@@ -53,6 +53,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![Screenshot](assets/07.png)
 - Query dapat dilakukan pada file tsx yang bisa dikombinasikan agar hasil query dapat ditampilkan serta mengambil data.
 
+### Jawaban Soal Praktikum
+![Screenshot](assets/08.png)
+
+Fungsi fetchCardData() pada query.tsx adalah untuk mengambil data user yang akan ditampilkan pada dashboard aplikasi. Data yang diambil antara lain adalah  jumlah total invoice, jumlah total pelanggan, total jumlah invoice yang telah dibayar, total jumlah invoice yang masih pending.
+
 
 
 
