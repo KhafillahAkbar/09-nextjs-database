@@ -59,6 +59,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 Fungsi fetchCardData() pada query.tsx adalah untuk mengambil data user yang akan ditampilkan pada dashboard aplikasi. Data yang diambil antara lain adalah  jumlah total invoice, jumlah total pelanggan, total jumlah invoice yang telah dibayar, total jumlah invoice yang masih pending.
 
 
+## Week 10
+### Jawaban Soal 1
+![Screenshot](assets/09.png)
+- Terdapat error seperti gambar diatas 
 
 
 
