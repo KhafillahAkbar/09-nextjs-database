@@ -64,6 +64,15 @@ Fungsi fetchCardData() pada query.tsx adalah untuk mengambil data user yang akan
 ![Screenshot](assets/09.png)
 - Terdapat error seperti gambar diatas 
 
+### Jawaban Soal 2
+![Screenshot](assets/10.png)
+- Terdapat error seperti gambar diatas
+
+### Jawaban Soal 3
+![Screenshot](assets/10.png)
+- Dikarenakan fungsi log in masih terdapat error, maka fungsi log out tidak dapat dijalankan.
+
+
 
 
 
